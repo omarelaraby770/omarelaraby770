@@ -1,43 +1,55 @@
-<div align="center">
+   <div align="center">
   <h1>
-    Hi there, I'm Rao Hai!
+    Hi there, I'm Omar Elaraby 👋
     <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
   </h1>
 
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300" />
 
   <p>
-    <em>🚀 Full Stack / AI Engineer at <a href="https://afx-team.github.io/">Alipay Experience Technology Department</a></em>
+    <em>💻 Web Designer & Frontend Developer | Passionate about clean UI & modern UX</em>
   </p>
 
   <p>
-    <a href="https://github.com/RaoHai">
-      <img src="https://img.shields.io/github/followers/RaoHai?label=Follow&style=social" />
+    <a href="https://github.com/omarelaraby">
+      <img src="https://img.shields.io/github/followers/omarelaraby?label=Follow&style=social" />
     </a>
-    <a href="https://github.com/RaoHai">
-      <img src="https://komarev.com/ghpvc/?username=RaoHai&color=brightgreen" />
+    <a href="https://github.com/omarelaraby">
+      <img src="https://komarev.com/ghpvc/?username=omarelaraby&color=brightgreen" />
     </a>
   </p>
 </div>
 
 ---
 
-## 🎤 Conference Presentations
+## 🚀 About Me
 
-- **[W3C WebEvolve 2025](https://www.w3.org/2024/01/webevolve-series-events/annual-2025/high-perf.en.html)**  / [Exploration of Rendering Containers and Dynamic Architectures for Web-based AI agents](https://www.w3.org/2024/01/webevolve-series-events/annual-2025/slides/hai-rao.pdf)
-
-- **[GMTC 2021](https://gmtc.infoq.cn/2021/beijing/presentation/3526)** /  [蚂蚁前端灰度监控与变更防御](https://gmtc.infoq.cn/2021/beijing/presentation/3526)
+- 🎨 I design and develop modern, responsive websites.  
+- 🌍 Based in Egypt, building websites that are user-friendly and visually engaging.  
+- 🔧 Tech stack: **HTML, CSS, JavaScript, React, TailwindCSS, Git/GitHub**.  
+- 📌 Currently exploring **Next.js** & advanced **UI/UX design**.  
 
 ---
 
-## 📝 Latest Blog Posts
+## 🛠️ Tech & Tools I Use
 
-- 🌐 [2023 Google I/O Connect Shanghai 参会总结：云，AI 与 Web](https://yuque.com/luchen/buzhou/lbtio5z9p8gssn26) - September 11, 2023
+- 💻 Languages: HTML | CSS | JavaScript  
+- 🎨 Styling: TailwindCSS | Bootstrap | Sass  
+- ⚡ Frameworks: React | Next.js  
+- 🛠️ Tools: Git | GitHub | Figma | Photoshop  
 
-- 📊 [[个人向] Google State of DevOps Reports 2022 解读](https://yuque.com/luchen/buzhou/za1pom) - October 18, 2022
+---
 
-- 🔍 [在没有 SourceMap 的情况下反解源码](https://yuque.com/luchen/buzhou/dpbum7) - July 12, 2021
+## 📂 Featured Projects
 
-- 🎨 [为自己的团队定制 CSS 框架](https://yuque.com/luchen/buzhou/bs9tzt) - March 2, 2021
+- 🌐 **[Portfolio Website](#)** – My personal portfolio showcasing my work.  
+- 🛒 **[E-commerce Template](#)** – A modern, responsive online store design.  
+- 📰 **[Blog Website](#)** – A clean and simple blog template for writers.  
 
-- 🔗 [How I Built A Self-Updating README by Webhooks and Netlify Functions.](https://yuque.com/luchen/buzhou/hga8n6) - July 20, 2020
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](#)  
+- 🌐 [Portfolio Website](#)  
+- 🐦 [Twitter](#)  
